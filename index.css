@@ -1,0 +1,39 @@
+header{
+    background-color: aqua;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    
+}
+ul{
+    display: flex;
+    text-align: justify;
+    list-style: none;
+    
+}
+li{
+    margin: 0 50px 0 50px;
+}
+
+
+section div{
+    height: 100%;
+    background-color: antiquewhite;
+   
+}
+h3{
+    margin-left: 50%;
+    padding-top: 10%;
+    font-size: 4em;
+}
+h5{
+    margin-left: 50%;
+    padding-top: 10%;
+}
+
+
+ {
+    font-size: 200%;
+    list-style-image: linear-gradient(to left bottom, red, blue);
+  }
+  
